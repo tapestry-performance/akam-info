@@ -2,8 +2,14 @@
 
 set policy
 
+available policies:
+
+- medium _default_
+- medium_high
+- medium_low
+
 ```
-  ?impolicy='setting'
+  ?impolicy=medium_high
 ```
 
 ## IM
